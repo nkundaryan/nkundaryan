@@ -10,10 +10,11 @@
 
 ## 🧠 About Me
 
-- 🔁 I build full-stack web apps & data pipelines that simplify workflows  
-- 🚜 Currently working on **FarmFlow**, a farm management system for greenhouse operations  
-- 📊 Helped shape online education strategy at USU with dashboards & DFW analysis  
-- 🗣️ Built an **AI app that simplifies medical jargon** into 4th-grade reading level 
+I'm a data engineering student passionate about building practical tech that solves real-world problems.
+
+- 🧠 Always focused on clarity, efficiency, and usability  
+- 🚀 Interested in tech that creates real impact in agriculture, education, and healthcare  
+- 🌍 On a mission to build systems that improve lives
 
 ---
 
@@ -51,5 +52,5 @@
 
 ---
 
-> “Why make things harder than they need to be? I build simple, scalable systems that work.”
+> “Let's Connect!!”
 
