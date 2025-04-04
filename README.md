@@ -6,9 +6,6 @@
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/ryan-nkunda) | Email: ryan.nkunda@usu.edu
 
----<img width="1289" alt="Screenshot 2025-04-03 at 12 33 04 PM" src="https://github.com/user-attachments/assets/7b67efb0-ccf9-445d-a9d1-7e9a493968ee" />
-<img width="1289" alt="Screenshot 2025-04-03 at 12 33 04 PM" src="https://github.com/user-attachments/assets/37682d2f-30a0-4bd8-8c56-d34b9bcb9388" />
-
 
 ## 🧠 About Me
 
