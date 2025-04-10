@@ -1,29 +1,31 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ryan! 👋
 
-🎓 I'm a [Your Year] year [Your Major] student at [Your University].  
-💡 I love working on [what you like to build or solve].  
-🌱 Currently learning: [topics or tech you're learning]  
-🚀 Looking for: [internships, jobs, open source collabs, etc.]  
+🎓 I'm a senior Information Systems student with a focus on Data Engineering at Utah State University.  
+💡 I love solving real-world problems with data—whether it's optimizing university operations, supporting farmers, or simplifying systems in Rwanda.  
+🌱 Currently learning: Full-stack development (React, Django), pipeline automation, and system integration.  
+🚀 Looking for: Full-time data analyst/data engineering roles, internships, or tech projects that make a real impact.
 
 ---
 
 ### 🔧 Technologies & Tools
 
-- 💻 Languages: Python, JavaScript, C++
-- 🌐 Web: HTML, CSS, React, Node.js
-- 🛠️ Tools: Git, VS Code, Figma, Postman
+- 💻 Languages: Python, SQL, JavaScript, R  
+- 🌐 Web: HTML, CSS, React, Node.js, Django  
+- 🛠️ Tools: Git, VS Code, Postman, Tableau, Excel, Figma  
+- 🗃️ Data: PostgreSQL, pandas, RDS, AWS basics
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔍 [Project One](https://github.com/yourusername/project1): One-line project summary. Example: "A website that helps users find scholarships based on their profile."
-- 🧠 [Project Two](https://github.com/yourusername/project2): Another one-liner. Example: "A machine learning model to detect early signs of plant disease."
+- 📊 [State of Online Education](https://github.com/yourusername/online-education-dashboard): Dashboard that revealed key DFW trends and influenced policy changes for online instruction at USU.  
+- 🌾 [FarmFlow](https://github.com/yourusername/farmflow): A greenhouse management web app built for local Rwandan farms to track harvests, tasks, and deliveries.  
+- ⚡ [Smart Cash Power](https://github.com/yourusername/smart-cash-power): ESP32-based IoT prototype that sends prepaid power tokens remotely to meters in Rwanda—no keypad entry needed.
 
 ---
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [youremail@example.com]
-- Portfolio: [Your portfolio link] (if available)
+- [LinkedIn](https://www.linkedin.com/in/ryan-nkunda)  
+- Email: ryan.nkunda@example.com  
+- Portfolio: [ryankunda.dev](https://ryankunda.dev)
