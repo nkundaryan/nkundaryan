@@ -19,7 +19,6 @@
 
 - 📊 [State of Online Education](https://github.com/yourusername/online-education-dashboard): Dashboard that revealed key DFW trends and influenced policy changes for online instruction at USU.  
 - 🌾 [FarmFlow](https://github.com/yourusername/farmflow): A greenhouse management web app built for local Rwandan farms to track harvests, tasks, and deliveries.  
-- ⚡ [Smart Cash Power](https://github.com/yourusername/smart-cash-power): ESP32-based IoT prototype that sends prepaid power tokens remotely to meters in Rwanda—no keypad entry needed.
 
 ---
 
