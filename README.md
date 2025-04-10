@@ -27,5 +27,4 @@
 ### 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-nkunda)  
-- Email: ryan.nkunda@example.com  
-- Portfolio: [ryankunda.dev](https://ryankunda.dev)
+- Email: nkudaryan@gmail.com 
