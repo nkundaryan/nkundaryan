@@ -25,5 +25,5 @@
 
 ### 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-nkunda)  
+- LinkedIn: https://www.linkedin.com/in/ryan-nkunda
 - Email: nkudaryan@gmail.com
