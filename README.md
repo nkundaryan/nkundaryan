@@ -1,7 +1,7 @@
 # Hi there, I'm Ryan! 👋
 
 🎓 I'm a senior Information Systems student with a focus on Data Engineering at Utah State University.  
-💡 I love solving real-world problems with data, whether it's optimizing university operations, supporting farmers, or simplifying systems in Rwanda.  
+💡 I love solving real-world problems with data, whether it's optimizing university operations, supporting farmers, or simplifying systems.  
 🌱 Currently learning: Full-stack development (React, Django), pipeline automation, and system integration.  
 
 ---
